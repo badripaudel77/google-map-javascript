@@ -4,7 +4,7 @@ Google Map and Javascript
 -----------------------
 
 ### Visit my webiste 
-  -[Coding guides](https://guidestocode.com/)
+  [Coding guides](https://guidestocode.com/)
 
 ### Full details available at following links
  - [How to create map with html, css and Javascript with google maps](https://guidestocode.com/javascript/how-to-create-google-map-with-javascript-in-easy-ways/)
